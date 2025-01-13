@@ -257,3 +257,41 @@ progress {
   font-size: inherit;
   padding: 0.8rem;
 }
+
+/*------------------------------------------------------------------------------ */
+
+@media(max-width : 84em){
+  html{
+    font-size: 59%;
+  }
+}
+
+@media(max-width: 75em){
+  html{
+  font-size : 56.25%;
+  }
+}
+
+@media(max-width: 60em){
+ html{
+     font-size : 48%;
+ }
+}
+
+@media(max-width: 50em){
+  html{
+    font-size : 44%;
+}
+}
+
+@media(max-width : 44em){
+  html{
+    font-size : 40%
+  }
+}
+
+@media(max-width: 37em) {
+  html{
+    font-size : 36%;
+  }
+}
